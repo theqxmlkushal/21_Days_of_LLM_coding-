@@ -1,7 +1,9 @@
 streamlit
 numpy
 pandas
+PyPDF2
 faiss-cpu
 sentence-transformers
-PyPDF2
 tiktoken
+groq
+
